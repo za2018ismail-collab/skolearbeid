@@ -1,9 +1,9 @@
 # skolearbeid
-## Om prosjekte
-skolearbeid og oppgaver for vg2
-## Om prosjektet.
+## Om prosjektet
+skolearbeid og oppgaver for vg2 innen IT-drift.
 ## Dette fungerer
 - Git og Github oppsett
+- mapper og filstruktur (backup,dokumentasjon,tester,support)
 ## Videre arbeid
 - Cisco Networking Academy og CMD oppgaver
 ## What I learned
